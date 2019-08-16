@@ -1,1 +1,2 @@
-**Nesse repositório vou colocar todos os meus estudos para tirar a certificação 70-483 programming C#**
+**In this repository I will put all my studies to take certification 70-483 programming C #**
+
