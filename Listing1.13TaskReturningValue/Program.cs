@@ -21,7 +21,8 @@ namespace Listing1._13TaskReturningValue
             {
                 return CalculateResult();
             });
-
+            Console.WriteLine(task.Result);
+            Console.WriteLine("Finished processing. Press a key to end.");
             Console.ReadKey();
         }
 
