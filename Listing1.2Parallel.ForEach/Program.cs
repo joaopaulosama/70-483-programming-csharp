@@ -20,6 +20,7 @@ namespace Listing1._2Parallel.ForEach
             Parallel.ForEach(items,item=> {
                 WorkOnItem(item);
             });
+
             Console.WriteLine("Finished processing. Press a key to end.");
             Console.ReadKey();
         }
